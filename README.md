@@ -1,13 +1,15 @@
 # CmdGoogle
+> A child of [CmdUtils](../../../CmdUtils/).
+
 Allows users to query the google search engine in their default browser from the command prompt.
 
 ## Usage
 `> google rick astley`
-The above example will open a google search with the specified `rick astley` query into your default system browser.
+<br/>The above example will open a google search with the specified `rick astley` query into your default system browser.
 
 ## Installation
 Get the [latest release](../../releases/latest) from the [Releases](../../releases) tab, and extract the `Google.exe` executable to a known location.
-This location must then be [added to the PATH environment variable](adding-the-program-to-path).
+<br/>This location must then be [added to the PATH environment variable](adding-the-program-to-path).
 
 ## Manual Installation
 1. Clone this repository using your preferred method (`git clone`, [GitHub Desktop](https://desktop.github.com/), [GitKraken](https://gitkraken.com/), and so on...)
